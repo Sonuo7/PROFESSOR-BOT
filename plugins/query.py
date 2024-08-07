@@ -429,11 +429,13 @@ async def cb_handler(client: Client, query: CallbackQuery):
 
     elif query.data == "start":                        
         buttons = [[
-            InlineKeyboardButton("𝗝𝗢𝗜𝗡 𝗢𝗨𝗥 𝗔𝗗𝗗𝗟𝗜𝗦𝗧 🙏", url="https://t.me/addlist/rMLA4niKz9xjYjg1")
+            InlineKeyboardButton("𝗝𝗢𝗜𝗡 𝗢𝗨𝗥 𝗡𝗘𝗪 𝗔𝗗𝗗𝗟𝗜𝗦𝗧 🙏", url="https://t.me/addlist/0W1WED6AnkI4Zjg9")
             ],[
-            InlineKeyboardButton("𝐓𝐄𝐒𝐓 𝐒𝐄𝐑𝐈𝐄𝐒", url="https://t.me/+Wh-oW_5Tes81NmM9"), 
-            InlineKeyboardButton("ONLINE WATCH", url="https://t.me/OPFILE2STREAMBOT")
-            ],[      
+            InlineKeyboardButton("𝐀𝐏𝐍𝐈 𝐊𝐀𝐊𝐒𝐇𝐀 𝐁𝐎𝐓 😈", url="https://t.me/HIDDEN_LEAKED_BOT")
+            ],[
+            InlineKeyboardButton("Team Hidden", url="https://t.me/HIDDEN_OFFICIALS_1"),
+            InlineKeyboardButton("ᴛᴇsᴛ sᴇʀɪᴇs", url="https://t.me/+Fpzh5FbKcoNhZGZl")
+            ],[
             InlineKeyboardButton("Hᴇʟᴩ 🕸️", callback_data="help"),
             InlineKeyboardButton("Aʙᴏᴜᴛ ✨", callback_data="about")
         ]]
